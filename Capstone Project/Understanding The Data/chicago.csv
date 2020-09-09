@@ -1,0 +1,401 @@
+Start Time,End Time,Trip Duration,Start Station,End Station,User Type,Gender,Birth Year
+29/05/2017 18:36,29/05/2017 18:49,780,Columbus Dr & Randolph St,Federal St & Polk St,Subscriber,Male,1991
+12/06/2017 19:00,12/06/2017 19:24,1429,Kingsbury St & Erie St,Orleans St & Merchandise Mart Plaza,Customer,,
+13/02/2017 17:02,13/02/2017 17:20,1088,Canal St & Madison St,Paulina Ave & North Ave,Subscriber,Female,1982
+24/04/2017 18:39,24/04/2017 18:54,914,Spaulding Ave & Armitage Ave,California Ave & Milwaukee Ave,Subscriber,Male,1966
+26/01/2017 15:36,26/01/2017 15:43,434,Clark St & Randolph St,Financial Pl & Congress Pkwy,Subscriber,Female,1983
+21/06/2017 9:43,21/06/2017 10:01,1057,Ogden Ave & Race Ave,Franklin St & Monroe St,Subscriber,Female,1981
+24/04/2017 8:33,24/04/2017 8:38,316,Clinton St & Washington Blvd,Morgan St & Lake St,Subscriber,Male,1986
+21/03/2017 7:23,21/03/2017 7:33,559,Canal St & Adams St,Michigan Ave & Lake St,Subscriber,Male,1969
+14/01/2017 12:16,14/01/2017 12:58,2517,Wentworth Ave & Archer Ave,Franklin St & Jackson Blvd,Customer,,
+06/04/2017 9:15,06/04/2017 9:22,379,Canal St & Madison St,Clark St & Lake St,Subscriber,Male,1982
+13/06/2017 17:02,13/06/2017 17:08,333,State St & Kinzie St,Stetson Ave & South Water St,Subscriber,Male,1963
+09/03/2017 9:15,09/03/2017 9:18,197,Clark St & Lake St,Rush St & Hubbard St,Subscriber,Male,1986
+22/03/2017 6:54,22/03/2017 6:59,302,Larrabee St & Division St,Clark St & Elm St,Subscriber,Female,1990
+21/02/2017 17:51,21/02/2017 17:55,191,Ashland Ave & Division St,Damen Ave & Division St,Subscriber,Male,1979
+13/03/2017 13:19,13/03/2017 13:27,489,LaSalle St & Washington St,Sangamon St & Washington Blvd (*),Subscriber,Male,1972
+04/04/2017 23:12,04/04/2017 23:25,811,Sheffield Ave & Webster Ave,Halsted St & Roscoe St,Subscriber,Male,1990
+05/04/2017 19:28,05/04/2017 19:35,439,Orleans St & Merchandise Mart Plaza,Clinton St & Washington Blvd,Subscriber,Male,1957
+15/05/2017 15:49,15/05/2017 15:57,459,Southport Ave & Irving Park Rd,Lincoln Ave & Roscoe St,Subscriber,Male,1962
+18/02/2017 15:23,18/02/2017 15:54,1873,Central St & Girard Ave,Central St & Girard Ave,Subscriber,Male,1982
+02/04/2017 13:21,02/04/2017 13:30,578,Kingsbury St & Kinzie St,Wells St & Elm St,Subscriber,Male,1965
+20/06/2017 11:38,20/06/2017 11:51,816,State St & Pearson St,Clinton St & Madison St,Subscriber,Male,1987
+01/02/2017 8:49,01/02/2017 9:06,1045,Clinton St & 18th St,Clinton St & Washington Blvd,Subscriber,Female,1985
+11/04/2017 11:22,11/04/2017 11:40,1060,Loomis St & Jackson Blvd,Clark St & Lake St,Subscriber,Male,1974
+21/05/2017 12:07,21/05/2017 12:13,359,Orleans St & Merchandise Mart Plaza,Green St & Randolph St,Subscriber,Male,1991
+28/06/2017 21:07,28/06/2017 21:21,873,Paulina Ave & North Ave,Troy St & North Ave,Subscriber,Female,1994
+08/02/2017 17:33,08/02/2017 17:38,314,Wabash Ave & 16th St,Wabash Ave & Roosevelt Rd,Subscriber,Female,1984
+24/06/2017 21:58,24/06/2017 22:22,1422,Adler Planetarium,State St & Randolph St,Customer,,
+23/05/2017 8:18,23/05/2017 8:33,905,Ogden Ave & Race Ave,Daley Center Plaza,Subscriber,Female,1984
+07/06/2017 12:30,07/06/2017 12:44,844,Columbus Dr & Randolph St,Clinton St & Jackson Blvd,Subscriber,Male,1957
+04/04/2017 14:12,04/04/2017 14:16,237,California Ave & Milwaukee Ave,Stave St & Armitage Ave,Subscriber,Male,1957
+26/02/2017 17:14,26/02/2017 17:29,889,Sedgwick St & North Ave,Halsted St & Wrightwood Ave,Subscriber,Female,1993
+29/03/2017 6:57,29/03/2017 7:03,354,Oakley Ave & Irving Park Rd,Talman Ave & Addison St,Subscriber,Male,1979
+27/06/2017 16:32,27/06/2017 16:35,187,Canal St & Madison St,LaSalle St & Washington St,Subscriber,Male,1980
+04/04/2017 22:47,04/04/2017 22:51,237,Sheffield Ave & Webster Ave,Larrabee St & Webster Ave,Subscriber,Male,1964
+03/06/2017 15:33,03/06/2017 17:00,5216,Streeter Dr & Grand Ave,Kedzie Ave & Milwaukee Ave,Customer,,
+08/02/2017 12:05,08/02/2017 12:12,419,Franklin St & Lake St,Larrabee St & Kingsbury St,Subscriber,Male,1982
+18/06/2017 12:12,18/06/2017 12:14,169,Clinton St & Roosevelt Rd,Halsted St & Roosevelt Rd,Subscriber,Male,1986
+09/04/2017 14:55,09/04/2017 15:17,1317,Theater on the Lake,Lake Shore Dr & Belmont Ave,Customer,,
+02/03/2017 13:43,02/03/2017 13:47,258,Broadway & Berwyn Ave,Clark St & Berwyn Ave,Customer,,
+14/06/2017 9:14,14/06/2017 9:33,1166,Clark St & Winnemac Ave,Damen Ave & Wellington Ave,Subscriber,Female,1986
+24/03/2017 13:06,24/03/2017 13:10,247,Broadway & Berwyn Ave,Clark St & Berwyn Ave,Subscriber,Female,1961
+23/01/2017 7:11,23/01/2017 7:25,848,Wells St & Concord Ln,Mies van der Rohe Way & Chicago Ave,Subscriber,Female,1975
+05/06/2017 6:45,05/06/2017 6:59,888,LaSalle St & Jackson Blvd,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1962
+24/01/2017 18:53,24/01/2017 19:07,819,Desplaines St & Jackson Blvd,Wentworth Ave & Archer Ave,Subscriber,Male,1974
+11/06/2017 13:36,11/06/2017 13:46,552,Orleans St & Merchandise Mart Plaza,LaSalle St & Illinois St,Customer,,
+10/04/2017 17:31,10/04/2017 17:56,1446,Peoria St & Jackson Blvd,Aberdeen St & Jackson Blvd,Subscriber,Male,1991
+13/05/2017 14:02,13/05/2017 14:14,717,Milwaukee Ave & Rockwell St,Greenview Ave & Fullerton Ave,Subscriber,Male,1990
+13/05/2017 22:05,13/05/2017 22:09,272,Kingsbury St & Erie St,Larrabee St & Kingsbury St,Subscriber,Female,1980
+09/05/2017 20:30,09/05/2017 20:38,476,Michigan Ave & Lake St,Rush St & Cedar St,Subscriber,Male,1993
+19/04/2017 17:57,19/04/2017 18:11,834,Clark St & Wellington Ave,Sedgwick St & North Ave,Subscriber,Female,1991
+18/02/2017 11:44,18/02/2017 11:59,912,Shedd Aquarium,Lake Shore Dr & Ohio St,Subscriber,Female,1983
+15/06/2017 8:56,15/06/2017 9:12,951,Michigan Ave & 8th St,Burnham Harbor,Customer,,
+02/06/2017 13:48,02/06/2017 14:02,852,Ashland Ave & 21st St,California Ave & 21st St,Subscriber,Male,1949
+02/06/2017 19:24,02/06/2017 19:41,1041,Damen Ave & Charleston St,Leavitt St & North Ave,Subscriber,Female,1987
+18/03/2017 11:06,18/03/2017 11:14,500,Wabash Ave & Grand Ave,Wells St & Walton St,Subscriber,Male,1967
+09/04/2017 20:11,09/04/2017 20:24,804,Theater on the Lake,Halsted St & Wrightwood Ave,Subscriber,Male,1994
+20/04/2017 9:23,20/04/2017 9:33,591,Cornell Ave & Hyde Park Blvd,Harper Ave & 59th St,Subscriber,Male,1989
+22/02/2017 23:14,22/02/2017 23:29,879,Michigan Ave & 18th St,Emerald Ave & 31st St,Subscriber,Male,1997
+16/05/2017 16:09,16/05/2017 16:13,244,Clinton St & Lake St,Wacker Dr & Washington St,Subscriber,Female,1975
+03/03/2017 7:55,03/03/2017 7:57,113,Clark St & Chicago Ave,Wells St & Huron St,Subscriber,Male,1981
+18/04/2017 18:12,18/04/2017 18:55,2571,Southport Ave & Belmont Ave,Racine Ave & Belmont Ave,Subscriber,Male,1992
+16/06/2017 18:21,16/06/2017 18:42,1270,Ellis Ave & 55th St,Prairie Ave & Garfield Blvd,Subscriber,Female,1995
+07/04/2017 20:23,07/04/2017 20:36,787,Lincoln Ave & Fullerton Ave,Broadway & Cornelia Ave,Subscriber,Female,1988
+16/03/2017 21:08,16/03/2017 21:39,1883,Rush St & Cedar St,Wabash Ave & Cermak Rd,Subscriber,Female,1992
+17/05/2017 20:45,17/05/2017 20:59,828,Orleans St & Merchandise Mart Plaza,Damen Ave & Augusta Blvd,Subscriber,Male,1990
+09/06/2017 12:24,09/06/2017 12:36,721,Lake Shore Dr & North Blvd,Clark St & Armitage Ave,Customer,,
+05/06/2017 14:51,05/06/2017 14:57,396,Wabash Ave & 8th St,LaSalle St & Jackson Blvd,Subscriber,Male,1992
+19/02/2017 15:29,19/02/2017 15:43,813,Broadway & Waveland Ave,Lake Shore Dr & Diversey Pkwy,Subscriber,Male,1990
+17/03/2017 12:14,17/03/2017 12:22,468,Dearborn Pkwy & Delaware Pl,State St & Randolph St,Subscriber,Female,1984
+25/05/2017 17:46,25/05/2017 17:51,332,Sheridan Rd & Irving Park Rd,Clarendon Ave & Gordon Ter,Subscriber,Female,1969
+19/06/2017 12:38,19/06/2017 12:55,992,Streeter Dr & Grand Ave,Dearborn St & Monroe St,Subscriber,Male,1950
+01/06/2017 19:10,01/06/2017 19:27,1012,Lincoln Ave & Belmont Ave,Stave St & Armitage Ave,Subscriber,Male,1986
+23/02/2017 18:04,23/02/2017 18:12,506,Michigan Ave & Lake St,Canal St & Adams St,Subscriber,Male,1978
+28/03/2017 8:11,28/03/2017 8:15,221,Lincoln Ave & Diversey Pkwy,Sheffield Ave & Fullerton Ave,Subscriber,Male,1984
+30/06/2017 21:08,30/06/2017 21:21,780,Cityfront Plaza Dr & Pioneer Ct,Canal St & Madison St,Subscriber,Male,1984
+10/03/2017 13:40,10/03/2017 13:45,255,Clark St & Lake St,Rush St & Hubbard St,Subscriber,Female,1983
+09/04/2017 16:43,09/04/2017 17:00,1072,Lake Shore Dr & North Blvd,Streeter Dr & Grand Ave,Customer,,
+09/06/2017 18:05,09/06/2017 18:19,816,Wood St & Division St,Wells St & Walton St,Subscriber,Male,1989
+29/03/2017 18:29,29/03/2017 18:38,527,Wells St & Huron St,Clinton St & Washington Blvd,Subscriber,Male,1956
+23/04/2017 13:16,23/04/2017 13:40,1463,Field Blvd & South Water St,Clark St & North Ave,Subscriber,Male,1983
+12/05/2017 17:57,12/05/2017 18:04,452,Morgan St & Polk St,Loomis St & Taylor St (*),Subscriber,Female,1997
+01/02/2017 7:27,01/02/2017 7:31,262,Halsted St & Roscoe St,Wilton Ave & Belmont Ave,Subscriber,Female,1993
+27/06/2017 7:39,27/06/2017 7:45,340,Wacker Dr & Washington St,Dearborn St & Adams St,Subscriber,Male,1982
+24/03/2017 14:15,24/03/2017 14:27,681,Sheridan Rd & Lawrence Ave,Broadway & Thorndale Ave,Subscriber,Male,1984
+21/04/2017 17:37,21/04/2017 17:54,969,Orleans St & Merchandise Mart Plaza,Desplaines St & Randolph St,Subscriber,Male,1990
+08/06/2017 19:16,08/06/2017 19:27,660,Damen Ave & Grand Ave,Ashland Ave & Division St,Customer,,
+10/02/2017 18:25,10/02/2017 18:36,694,Marshfield Ave & Cortland St,Larrabee St & Menomonee St,Subscriber,Male,1969
+29/06/2017 7:25,29/06/2017 7:49,1412,Campbell Ave & Fullerton Ave,Larrabee St & Kingsbury St,Subscriber,Male,1990
+16/06/2017 16:31,16/06/2017 16:42,660,Wilton Ave & Belmont Ave,Clark St & Armitage Ave,Subscriber,Female,1985
+19/04/2017 11:56,19/04/2017 12:07,667,Clinton St & Madison St,State St & Kinzie St,Subscriber,Male,1979
+30/05/2017 18:32,30/05/2017 18:41,515,Desplaines St & Kinzie St,Clinton St & Tilden St,Subscriber,Male,1986
+23/02/2017 8:45,23/02/2017 8:54,542,Cottage Grove Ave & 71st St,Cottage Grove Ave & 78th St,Subscriber,Female,1961
+23/06/2017 19:19,23/06/2017 19:30,635,Sheffield Ave & Wrightwood Ave,Southport Ave & Roscoe St,Subscriber,Male,1992
+31/05/2017 14:40,31/05/2017 14:50,563,Wabash Ave & Grand Ave,Wacker Dr & Washington St,Subscriber,Female,1974
+27/05/2017 18:16,27/05/2017 19:03,2808,McClurg Ct & Illinois St,Michigan Ave & Oak St,Customer,,
+15/06/2017 16:32,15/06/2017 16:41,538,Stetson Ave & South Water St,Clinton St & Madison St,Subscriber,Male,1956
+28/05/2017 17:40,28/05/2017 17:56,926,Burnham Harbor,Lake Shore Dr & Monroe St,Subscriber,Male,1989
+28/05/2017 17:29,28/05/2017 18:02,1951,Lake Shore Dr & North Blvd,Lake Shore Dr & Monroe St,Customer,,
+11/06/2017 18:32,11/06/2017 18:43,679,Ravenswood Ave & Berteau Ave,Campbell Ave & Montrose Ave,Subscriber,Male,1953
+15/04/2017 11:42,15/04/2017 12:06,1414,Dusable Harbor,Streeter Dr & Grand Ave,Customer,,
+17/05/2017 22:19,17/05/2017 22:31,721,Damen Ave & Augusta Blvd,Leavitt St & North Ave,Subscriber,Male,1986
+04/01/2017 17:46,04/01/2017 17:51,292,California Ave & Milwaukee Ave,Kedzie Ave & Palmer Ct,Subscriber,Male,1990
+25/06/2017 14:20,25/06/2017 14:51,1852,Lakefront Trail & Bryn Mawr Ave,Lake Shore Dr & Wellington Ave,Subscriber,Female,1989
+19/05/2017 18:11,19/05/2017 18:15,269,Wabash Ave & Adams St,Daley Center Plaza,Subscriber,Female,1989
+20/03/2017 18:05,20/03/2017 18:10,296,Franklin St & Monroe St,State St & Randolph St,Subscriber,Male,1984
+21/05/2017 14:31,21/05/2017 14:44,827,Dearborn St & Erie St,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1984
+23/06/2017 16:34,23/06/2017 17:53,4753,Dusable Harbor,Millennium Park,Customer,,
+26/04/2017 6:59,26/04/2017 7:09,596,Morgan St & 18th St,Halsted St & Polk St,Subscriber,Female,1989
+22/02/2017 18:17,22/02/2017 18:25,472,Franklin St & Lake St,Kingsbury St & Erie St,Subscriber,Male,1984
+27/01/2017 9:53,27/01/2017 9:58,311,Sedgwick St & North Ave,Clark St & Lincoln Ave,Subscriber,Female,1983
+14/04/2017 16:28,14/04/2017 16:40,721,Indiana Ave & Roosevelt Rd,Millennium Park,Customer,,
+02/02/2017 10:13,02/02/2017 10:39,1539,Halsted St & Polk St,State St & Pearson St,Subscriber,Male,1954
+28/05/2017 21:07,28/05/2017 21:14,411,California Ave & Milwaukee Ave,Spaulding Ave & Armitage Ave,Subscriber,Male,1971
+16/05/2017 19:34,16/05/2017 19:36,124,Clinton St & Madison St,Clinton St & Lake St,Subscriber,Male,1986
+06/04/2017 10:20,06/04/2017 10:24,227,Green St & Madison St,Clinton St & Washington Blvd,Subscriber,Male,1976
+02/03/2017 17:39,02/03/2017 17:55,997,LaSalle St & Jackson Blvd,McClurg Ct & Illinois St,Subscriber,Male,1953
+18/02/2017 15:54,18/02/2017 16:15,1295,Lake Shore Dr & Monroe St,Clark St & Randolph St,Customer,,
+30/06/2017 15:30,30/06/2017 15:53,1394,Buckingham Fountain,Shedd Aquarium,Customer,,
+14/06/2017 7:09,14/06/2017 7:25,1000,Eckhart Park,McClurg Ct & Erie St,Subscriber,Female,1988
+11/01/2017 6:45,11/01/2017 6:51,373,Clinton St & Washington Blvd,Dearborn St & Monroe St,Subscriber,Male,1970
+27/02/2017 14:29,27/02/2017 14:45,972,Halsted St & Wrightwood Ave,Marshfield Ave & Cortland St,Subscriber,Female,1997
+18/04/2017 23:05,18/04/2017 23:32,1571,Larrabee St & Webster Ave,Clark St & Wellington Ave,Subscriber,Male,1995
+21/05/2017 17:29,21/05/2017 17:48,1142,Broadway & Granville Ave,Broadway & Argyle St,Customer,,
+30/01/2017 20:54,30/01/2017 20:58,245,Dearborn St & Erie St,Sedgwick St & Huron St,Subscriber,Female,1984
+25/05/2017 19:30,25/05/2017 19:48,1091,Greenview Ave & Fullerton Ave,Lake Shore Dr & North Blvd,Subscriber,Male,1979
+06/05/2017 17:09,06/05/2017 18:06,3469,Forest Ave & Chicago Ave,Forest Ave & Chicago Ave,Customer,,
+24/03/2017 12:39,24/03/2017 12:52,772,Michigan Ave & Oak St,Cannon Dr & Fullerton Ave,Subscriber,Male,1993
+27/02/2017 8:25,27/02/2017 8:44,1110,Clifton Ave & Armitage Ave,Daley Center Plaza,Subscriber,Male,1972
+26/05/2017 17:03,26/05/2017 17:13,585,Clinton St & Jackson Blvd,Kingsbury St & Erie St,Subscriber,Male,1989
+30/05/2017 14:44,30/05/2017 14:51,454,Sheffield Ave & Fullerton Ave,Damen Ave & Clybourn Ave,Subscriber,Male,1990
+17/05/2017 9:10,17/05/2017 9:19,545,Michigan Ave & Congress Pkwy,Lake Shore Dr & Monroe St,Customer,,
+12/06/2017 6:45,12/06/2017 6:54,505,Sheridan Rd & Loyola Ave,Clark St & Lunt Ave,Subscriber,Male,1977
+04/06/2017 23:45,05/06/2017 2:03,8297,Wabash Ave & Roosevelt Rd,Wabash Ave & Roosevelt Rd,Customer,,
+19/03/2017 15:26,19/03/2017 15:32,348,Pine Grove Ave & Irving Park Rd,Sheridan Rd & Montrose Ave,Subscriber,Female,1994
+31/05/2017 14:45,31/05/2017 14:47,125,St. Clair St & Erie St,McClurg Ct & Erie St,Subscriber,Male,1986
+14/04/2017 13:04,14/04/2017 13:07,167,Sedgwick St & North Ave,Clybourn Ave & Division St,Subscriber,Male,1992
+22/06/2017 10:49,22/06/2017 10:55,340,Wentworth Ave & 33rd St,State St & 29th St,Subscriber,Male,1986
+24/04/2017 16:30,24/04/2017 16:34,255,Bissell St & Armitage Ave,Southport Ave & Clybourn Ave,Subscriber,Male,1981
+20/01/2017 17:10,20/01/2017 17:18,509,Ogden Ave & Chicago Ave,Green St & Randolph St,Subscriber,Male,1964
+06/06/2017 17:13,06/06/2017 17:30,1036,Wabash Ave & Adams St,Clybourn Ave & Division St,Subscriber,Male,1985
+28/06/2017 9:23,28/06/2017 9:42,1154,Wabash Ave & 8th St,Franklin St & Jackson Blvd,Customer,,
+02/05/2017 16:43,02/05/2017 16:55,673,Franklin St & Chicago Ave,Sheffield Ave & Willow St,Subscriber,Male,1983
+07/02/2017 13:48,07/02/2017 13:51,165,Sheffield Ave & Wrightwood Ave,Racine Ave & Fullerton Ave,Subscriber,Male,1994
+11/06/2017 12:46,11/06/2017 12:57,652,Streeter Dr & Grand Ave,Mies van der Rohe Way & Chestnut St,Customer,,
+25/05/2017 15:04,25/05/2017 15:35,1835,McClurg Ct & Illinois St,Theater on the Lake,Customer,,
+14/03/2017 15:23,14/03/2017 15:32,501,Clinton St & Lake St,Clinton St & Jackson Blvd,Subscriber,Male,1983
+06/04/2017 19:46,06/04/2017 19:53,380,Southport Ave & Waveland Ave,Southport Ave & Belmont Ave,Subscriber,Male,1986
+04/04/2017 16:59,04/04/2017 17:09,583,Wabash Ave & Grand Ave,Canal St & Madison St,Subscriber,Male,1988
+27/05/2017 16:41,27/05/2017 17:07,1530,Clark St & Lincoln Ave,Lake Shore Dr & Ohio St,Customer,,
+16/05/2017 16:05,16/05/2017 16:24,1135,St. Clair St & Erie St,Rush St & Hubbard St,Customer,,
+15/06/2017 17:34,15/06/2017 17:47,769,State St & Randolph St,Larrabee St & Kingsbury St,Subscriber,Male,1990
+25/01/2017 13:28,25/01/2017 13:32,203,Michigan Ave & Lake St,Fairbanks Ct & Grand Ave,Subscriber,Female,1991
+03/02/2017 17:54,03/02/2017 18:20,1532,LaSalle St & Jackson Blvd,Clark St & North Ave,Subscriber,Male,1969
+17/06/2017 19:32,17/06/2017 19:58,1544,Lakefront Trail & Bryn Mawr Ave,Montrose Harbor,Subscriber,Male,1994
+20/05/2017 18:44,20/05/2017 18:46,117,Indiana Ave & Roosevelt Rd,Indiana Ave & Roosevelt Rd,Customer,,
+25/06/2017 15:46,25/06/2017 16:07,1235,State St & Harrison St,State St & Kinzie St,Customer,,
+07/03/2017 17:35,07/03/2017 17:43,480,Glenwood Ave & Morse Ave,Paulina St & Howard St,Subscriber,Female,1990
+25/04/2017 11:50,25/04/2017 12:02,762,Streeter Dr & Grand Ave,Clark St & North Ave,Subscriber,Male,1985
+09/01/2017 8:14,09/01/2017 8:18,262,Franklin St & Jackson Blvd,Clinton St & Tilden St,Subscriber,Male,1966
+27/05/2017 9:09,27/05/2017 9:20,649,Franklin St & Jackson Blvd,Wells St & Elm St,Subscriber,Male,1985
+15/06/2017 8:29,15/06/2017 8:52,1404,Lake Shore Dr & Belmont Ave,Paulina Ave & North Ave,Subscriber,Male,1986
+02/02/2017 22:26,02/02/2017 22:32,337,Bissell St & Armitage Ave,Southport Ave & Clybourn Ave,Subscriber,Female,1990
+19/04/2017 11:45,19/04/2017 11:50,339,Clark St & Elm St,Larrabee St & Oak St,Subscriber,Female,1993
+01/06/2017 17:17,01/06/2017 17:23,352,Daley Center Plaza,Canal St & Madison St,Subscriber,Male,1973
+25/04/2017 8:26,25/04/2017 8:35,526,Clinton St & Washington Blvd,Aberdeen St & Jackson Blvd,Subscriber,Male,1972
+15/05/2017 17:48,15/05/2017 18:07,1141,LaSalle St & Adams St,Morgan St & Polk St,Subscriber,Male,1994
+30/06/2017 12:53,30/06/2017 13:01,521,Ogden Ave & Chicago Ave,Ashland Ave & Grand Ave,Subscriber,Female,1987
+12/06/2017 7:12,12/06/2017 7:20,499,Wells St & Evergreen Ave,LaSalle St & Illinois St,Subscriber,Male,1980
+18/06/2017 9:23,18/06/2017 9:29,358,Sangamon St & Washington Blvd (*),Franklin St & Monroe St,Subscriber,Male,1984
+18/03/2017 15:08,18/03/2017 15:17,571,Southport Ave & Roscoe St,Broadway & Waveland Ave,Subscriber,Male,1952
+13/06/2017 13:01,13/06/2017 13:09,497,Streeter Dr & Grand Ave,Michigan Ave & Oak St,Customer,,
+25/05/2017 7:53,25/05/2017 8:00,418,Michigan Ave & Washington St,Wacker Dr & Washington St,Subscriber,Female,1991
+23/04/2017 14:46,23/04/2017 14:54,474,Loomis St & Lexington St,Racine Ave & Congress Pkwy,Customer,,
+18/05/2017 19:21,18/05/2017 19:25,261,Daley Center Plaza,Canal St & Madison St,Subscriber,Male,1971
+23/06/2017 18:26,23/06/2017 18:36,612,Wells St & Walton St,Sheffield Ave & Willow St,Subscriber,Male,1989
+27/06/2017 7:43,27/06/2017 7:50,433,Orleans St & Merchandise Mart Plaza,Larrabee St & Division St,Subscriber,Male,1985
+23/06/2017 22:12,23/06/2017 22:34,1309,Rush St & Superior St,Sangamon St & Washington Blvd (*),Subscriber,Male,1989
+27/05/2017 15:04,27/05/2017 15:42,2266,Lakefront Trail & Bryn Mawr Ave,Lakefront Trail & Bryn Mawr Ave,Customer,,
+14/05/2017 14:13,14/05/2017 14:26,768,Desplaines St & Kinzie St,Ashland Ave & Division St,Customer,,
+29/05/2017 19:18,29/05/2017 19:32,838,Ritchie Ct & Banks St,Lake Shore Dr & Ohio St,Subscriber,Female,1982
+12/05/2017 10:52,12/05/2017 10:56,239,Chicago Ave & Sheridan Rd,Sheridan Rd & Noyes St (NU),Subscriber,Male,1998
+30/04/2017 6:27,30/04/2017 6:30,225,Wilton Ave & Diversey Pkwy,Hampden Ct & Diversey Pkwy,Subscriber,Male,1959
+22/05/2017 9:38,22/05/2017 9:43,285,Canal St & Taylor St,Clinton St & Jackson Blvd,Subscriber,Male,1969
+25/05/2017 11:37,25/05/2017 11:46,502,MLK Jr Dr & 29th St,State St & 33rd St,Subscriber,Male,1995
+04/05/2017 14:03,04/05/2017 14:12,542,Clark St & Chicago Ave,LaSalle St & Jackson Blvd,Subscriber,Male,1963
+06/06/2017 11:33,06/06/2017 11:47,883,Sedgwick St & Huron St,Michigan Ave & Madison St,Subscriber,Male,1972
+10/02/2017 19:08,10/02/2017 19:11,182,Ravenswood Ave & Berteau Ave,Ashland Ave & Belle Plaine Ave,Subscriber,Male,1984
+26/05/2017 11:55,26/05/2017 11:58,174,Clark St & Wellington Ave,Wilton Ave & Belmont Ave,Subscriber,Female,1985
+07/01/2017 13:56,07/01/2017 14:05,482,Federal St & Polk St,Michigan Ave & 18th St,Subscriber,Male,1983
+23/01/2017 16:40,23/01/2017 16:56,994,St. Clair St & Erie St,Canal St & Adams St,Subscriber,Male,1961
+08/04/2017 17:12,08/04/2017 17:56,2647,Dusable Harbor,Lake Shore Dr & Belmont Ave,Customer,,
+13/05/2017 12:27,13/05/2017 12:57,1776,Hampden Ct & Diversey Pkwy,California Ave & Byron St,Subscriber,Female,1985
+11/06/2017 15:24,11/06/2017 15:32,486,Calumet Ave & 33rd St,MLK Jr Dr & 29th St,Subscriber,Male,1991
+22/05/2017 17:42,22/05/2017 17:56,851,Dearborn Pkwy & Delaware Pl,Canal St & Madison St,Subscriber,Male,1984
+13/02/2017 17:08,13/02/2017 17:19,635,Logan Blvd & Elston Ave,Sheffield Ave & Wrightwood Ave,Subscriber,Male,1988
+13/05/2017 7:08,13/05/2017 7:26,1085,Western Ave & Congress Pkwy,LaSalle St & Washington St,Subscriber,Male,1989
+04/04/2017 13:32,04/04/2017 13:36,286,State St & Randolph St,LaSalle St & Illinois St,Subscriber,Male,1975
+19/02/2017 21:41,19/02/2017 21:54,807,St. Clair St & Erie St,Wabash Ave & Wacker Pl,Customer,,
+13/06/2017 19:48,13/06/2017 20:00,718,University Ave & 57th St,Cottage Grove Ave & 47th St,Subscriber,Male,1965
+17/06/2017 13:26,17/06/2017 13:45,1135,Dusable Harbor,Streeter Dr & Grand Ave,Customer,,
+07/06/2017 12:56,07/06/2017 12:58,102,Clinton St & Lake St,Clinton St & Madison St,Subscriber,Male,1978
+03/05/2017 14:54,03/05/2017 15:07,817,Franklin St & Jackson Blvd,Lake Shore Dr & Monroe St,Customer,,
+24/06/2017 10:11,24/06/2017 10:18,408,Clark St & Elm St,Mies van der Rohe Way & Chestnut St,Subscriber,Female,1994
+05/02/2017 9:24,05/02/2017 9:39,930,Sedgwick St & North Ave,Kingsbury St & Kinzie St,Subscriber,Male,1950
+26/05/2017 12:38,26/05/2017 12:42,230,Loomis St & Lexington St,Hermitage Ave & Polk St,Subscriber,Male,1978
+07/06/2017 17:38,07/06/2017 17:55,1066,Morgan St & Lake St,Morgan St & 18th St,Subscriber,Male,1979
+12/01/2017 19:25,12/01/2017 19:51,1570,State St & Kinzie St,Stockton Dr & Wrightwood Ave,Subscriber,Male,1974
+15/04/2017 13:36,15/04/2017 13:53,1033,Sheffield Ave & Willow St,Southport Ave & Clybourn Ave,Subscriber,Male,1964
+20/06/2017 20:11,20/06/2017 20:23,721,Lake Shore Dr & Ohio St,Michigan Ave & Lake St,Subscriber,Male,1990
+20/06/2017 17:53,20/06/2017 17:58,309,Washtenaw Ave & Lawrence Ave,Kedzie Ave & Leland Ave,Subscriber,Male,1973
+08/06/2017 7:43,08/06/2017 7:55,702,Eckhart Park,Clark St & Randolph St,Subscriber,Male,1972
+17/06/2017 19:25,17/06/2017 20:13,2886,Ashland Ave & Lake St,Green St & Randolph St,Subscriber,Female,1964
+24/01/2017 17:41,24/01/2017 17:45,257,Franklin St & Chicago Ave,Clark St & Elm St,Subscriber,Male,1995
+26/01/2017 13:17,26/01/2017 13:45,1692,Adler Planetarium,Millennium Park,Subscriber,Female,1992
+30/05/2017 17:55,30/05/2017 18:06,648,Kingsbury St & Kinzie St,Canal St & Adams St,Subscriber,Male,1994
+23/06/2017 11:06,23/06/2017 11:13,415,LaSalle St & Jackson Blvd,Michigan Ave & Madison St,Subscriber,Male,1970
+20/05/2017 12:30,20/05/2017 12:37,444,Broadway & Cornelia Ave,Lake Shore Dr & Belmont Ave,Subscriber,Male,1990
+15/02/2017 6:57,15/02/2017 7:07,579,Rush St & Hubbard St,Franklin St & Quincy St,Subscriber,Male,1986
+25/06/2017 12:52,25/06/2017 13:00,490,Halsted St & Wrightwood Ave,Bissell St & Armitage Ave,Customer,,
+15/05/2017 8:22,15/05/2017 8:28,335,Shore Dr & 55th St,Lake Park Ave & 56th St,Subscriber,Male,1966
+01/06/2017 17:56,01/06/2017 18:07,686,Burnham Harbor,Adler Planetarium,Subscriber,Male,1993
+25/06/2017 15:40,25/06/2017 16:11,1860,Streeter Dr & Grand Ave,Burnham Harbor,Subscriber,Female,1990
+10/04/2017 12:07,10/04/2017 12:14,381,Southport Ave & Wrightwood Ave,Halsted St & Wrightwood Ave,Subscriber,Male,1992
+31/01/2017 8:18,31/01/2017 8:30,716,Federal St & Polk St,Canal St & Madison St,Subscriber,Male,1985
+31/03/2017 19:11,31/03/2017 19:18,461,Damen Ave & Cortland St,Damen Ave & Pierce Ave,Subscriber,Male,1989
+31/05/2017 21:05,31/05/2017 21:24,1125,Orleans St & Merchandise Mart Plaza,Damen Ave & Pierce Ave,Subscriber,Male,1977
+17/05/2017 17:31,17/05/2017 17:40,509,Sheridan Rd & Irving Park Rd,Montrose Harbor,Subscriber,Male,1984
+20/02/2017 15:07,20/02/2017 15:18,681,Ada St & Washington Blvd,Wolcott Ave & Polk St,Subscriber,Male,1992
+24/06/2017 12:26,24/06/2017 12:43,1020,Wabash Ave & Grand Ave,Mies van der Rohe Way & Chestnut St,Subscriber,Female,1993
+15/05/2017 17:43,15/05/2017 17:51,477,Michigan Ave & Washington St,Clinton St & Washington Blvd,Subscriber,Male,1986
+14/06/2017 17:05,14/06/2017 17:15,617,Wabash Ave & Adams St,Orleans St & Ohio St,Subscriber,Male,1985
+15/06/2017 18:08,15/06/2017 18:15,431,Columbus Dr & Randolph St,Dearborn St & Monroe St,Subscriber,Male,1973
+09/06/2017 13:48,09/06/2017 14:06,1071,Streeter Dr & Grand Ave,Lake Shore Dr & North Blvd,Subscriber,Male,1991
+03/02/2017 17:58,03/02/2017 18:06,477,State St & Kinzie St,Clark St & Congress Pkwy,Subscriber,Male,1977
+18/04/2017 6:35,18/04/2017 6:38,198,Clinton St & Washington Blvd,LaSalle St & Washington St,Subscriber,Male,1959
+04/06/2017 12:37,04/06/2017 12:44,445,Larrabee St & Division St,Rush St & Cedar St,Subscriber,Female,1990
+21/04/2017 15:40,21/04/2017 15:44,275,Marion St & South Blvd,Forest Ave & Chicago Ave,Subscriber,Male,1975
+07/03/2017 18:17,07/03/2017 18:26,529,Ellis Ave & 58th St,Shore Dr & 55th St,Subscriber,Female,1987
+07/03/2017 14:34,07/03/2017 14:41,419,Clinton St & Roosevelt Rd,Morgan St & 18th St,Subscriber,Male,1981
+21/06/2017 16:31,21/06/2017 16:39,502,Canal St & Madison St,Michigan Ave & Washington St,Subscriber,Male,1979
+11/06/2017 11:51,11/06/2017 12:09,1108,Michigan Ave & 14th St,Adler Planetarium,Subscriber,Female,1981
+24/05/2017 9:12,24/05/2017 9:24,722,Racine Ave (May St) & Fulton St,Franklin St & Monroe St,Subscriber,Male,1985
+22/05/2017 12:59,22/05/2017 13:06,464,Orleans St & Elm St (*),Clark St & Elm St,Subscriber,Female,1953
+15/04/2017 18:42,15/04/2017 19:59,4617,Broadway & Belmont Ave,State St & Kinzie St,Customer,,
+18/06/2017 11:56,18/06/2017 12:03,428,Leavitt St & Armitage Ave,Marshfield Ave & Cortland St,Subscriber,Male,1985
+26/01/2017 19:06,26/01/2017 19:18,742,Eckhart Park,Ashland Ave & Lake St,Subscriber,Male,1961
+25/04/2017 9:26,25/04/2017 9:38,692,Halsted St & Diversey Pkwy,Sheridan Rd & Montrose Ave,Subscriber,Male,1984
+10/03/2017 8:21,10/03/2017 8:23,143,Damen Ave & Division St,Ashland Ave & Division St,Subscriber,Male,1991
+27/06/2017 18:53,27/06/2017 18:58,280,Larrabee St & Webster Ave,Larrabee St & Webster Ave,Subscriber,Female,1993
+04/06/2017 12:51,04/06/2017 13:02,637,Broadway & Barry Ave,Greenview Ave & Diversey Pkwy,Subscriber,Male,1992
+28/02/2017 13:13,28/02/2017 13:23,573,Orleans St & Merchandise Mart Plaza,State St & Van Buren St,Subscriber,Male,1969
+23/06/2017 15:03,23/06/2017 15:26,1404,Wells St & Concord Ln,Broadway & Waveland Ave,Subscriber,Male,1975
+31/01/2017 18:06,31/01/2017 18:11,274,Damen Ave & Pierce Ave,Damen Ave & Augusta Blvd,Subscriber,Male,1988
+24/04/2017 17:52,24/04/2017 17:58,382,Halsted St & Diversey Pkwy,Broadway & Cornelia Ave,Subscriber,Male,1990
+02/06/2017 7:33,02/06/2017 7:44,658,Wabash Ave & Grand Ave,Clinton St & Washington Blvd,Subscriber,Female,1993
+27/04/2017 22:17,27/04/2017 22:24,378,Green St & Randolph St,Carpenter St & Huron St,Subscriber,Male,1968
+28/03/2017 17:31,28/03/2017 17:36,335,Marshfield Ave & Cortland St,Western Ave & Winnebago Ave,Subscriber,Female,1986
+22/05/2017 16:32,22/05/2017 16:41,493,Cornell Ave & Hyde Park Blvd,Woodlawn Ave & 55th St,Subscriber,Female,1953
+27/04/2017 14:56,27/04/2017 14:58,168,Kingsbury St & Erie St,Larrabee St & Kingsbury St,Subscriber,Male,1989
+05/01/2017 7:56,05/01/2017 7:59,161,Damen Ave & Division St,Damen Ave & Pierce Ave,Subscriber,Male,1987
+01/04/2017 10:57,01/04/2017 11:02,280,Sedgwick St & Webster Ave,Halsted St & Dickens Ave,Subscriber,Male,1968
+11/02/2017 12:38,11/02/2017 12:53,899,Ravenswood Ave & Balmoral Ave,Clarendon Ave & Leland Ave,Subscriber,Male,1990
+13/05/2017 17:06,13/05/2017 17:38,1885,Montrose Harbor,Sedgwick St & Webster Ave,Subscriber,Female,1986
+21/01/2017 13:31,21/01/2017 13:43,724,Field Blvd & South Water St,Streeter Dr & Grand Ave,Customer,,
+13/02/2017 7:56,13/02/2017 8:04,474,Western Ave & Walton St,Wood St & Division St,Subscriber,Male,1976
+23/05/2017 18:23,23/05/2017 18:31,443,Kingsbury St & Kinzie St,Sangamon St & Washington Blvd (*),Subscriber,Male,1989
+07/05/2017 17:18,07/05/2017 17:23,335,Shedd Aquarium,Adler Planetarium,Customer,,
+11/06/2017 11:35,11/06/2017 12:01,1548,Western Ave & Winnebago Ave,Paulina Ave & North Ave,Customer,,
+23/04/2017 18:20,23/04/2017 18:27,407,Ashland Ave & Belle Plaine Ave,Lincoln Ave & Waveland Ave,Subscriber,Male,1987
+13/04/2017 15:46,13/04/2017 15:55,539,Rush St & Hubbard St,Clinton St & Washington Blvd,Subscriber,Male,1955
+18/05/2017 0:59,18/05/2017 1:09,594,Western Ave & Division St,California Ave & Division St,Customer,,
+16/04/2017 18:17,16/04/2017 18:31,836,Franklin St & Monroe St,Fairbanks Ct & Grand Ave,Subscriber,Male,1989
+11/06/2017 12:04,11/06/2017 12:13,526,Clinton St & Roosevelt Rd,Indiana Ave & Roosevelt Rd,Subscriber,Male,1990
+17/05/2017 19:28,17/05/2017 19:41,745,Broadway & Belmont Ave,Broadway & Sheridan Rd,Subscriber,Female,1992
+15/02/2017 17:42,15/02/2017 17:51,555,Orleans St & Merchandise Mart Plaza,Green St & Randolph St,Subscriber,Male,1982
+20/06/2017 6:34,20/06/2017 6:47,736,Clinton St & Washington Blvd,Streeter Dr & Grand Ave,Subscriber,Male,1959
+17/04/2017 15:43,17/04/2017 15:54,644,Kingsbury St & Kinzie St,Streeter Dr & Grand Ave,Subscriber,Male,1952
+15/03/2017 18:21,15/03/2017 18:41,1190,Wood St & Milwaukee Ave,Troy St & Elston Ave,Subscriber,Male,1982
+14/05/2017 9:41,14/05/2017 10:13,1918,Lake Shore Dr & Ohio St,Larrabee St & Division St,Customer,,
+25/06/2017 22:01,25/06/2017 22:28,1636,Milwaukee Ave & Wabansia Ave,Drake Ave & Fullerton Ave,Customer,,
+18/04/2017 17:55,18/04/2017 18:08,764,Milwaukee Ave & Grand Ave,Fairbanks Ct & Grand Ave,Subscriber,Male,1987
+23/05/2017 7:42,23/05/2017 7:51,565,Clinton St & Lake St,Larrabee St & Kingsbury St,Subscriber,Male,1960
+04/05/2017 7:34,04/05/2017 7:43,524,Kedzie Ave & Palmer Ct,Keystone Ave & Fullerton Ave,Subscriber,Male,1988
+28/04/2017 7:14,28/04/2017 7:22,473,Spaulding Ave & Division St,Kedzie Ave & Lake St,Subscriber,Male,1987
+30/04/2017 10:54,30/04/2017 11:04,625,Troy St & North Ave,Kedzie Ave & Milwaukee Ave,Subscriber,Female,1981
+28/04/2017 12:40,28/04/2017 12:42,121,Sheffield Ave & Waveland Ave,Broadway & Waveland Ave,Subscriber,Male,1992
+31/05/2017 18:00,31/05/2017 18:19,1126,Clark St & Schreiber Ave,Broadway & Berwyn Ave,Subscriber,Female,1968
+16/04/2017 12:33,16/04/2017 12:55,1341,Michigan Ave & Washington St,Dusable Harbor,Customer,,
+19/02/2017 12:09,19/02/2017 12:57,2854,Dusable Harbor,Buckingham Fountain,Customer,,
+13/03/2017 16:35,13/03/2017 16:43,484,Ada St & Washington Blvd,Desplaines St & Kinzie St,Subscriber,Male,1986
+24/03/2017 10:55,24/03/2017 11:01,334,Wacker Dr & Washington St,LaSalle St & Jackson Blvd,Subscriber,Male,1961
+27/05/2017 10:32,27/05/2017 10:43,633,Lake Park Ave & 53rd St,Ellis Ave & 60th St,Subscriber,Male,1987
+01/01/2017 9:13,01/01/2017 9:25,711,Rush St & Superior St,Clark St & Schiller St,Subscriber,Female,1957
+13/05/2017 15:02,13/05/2017 15:29,1601,Wells St & Concord Ln,Sheffield Ave & Waveland Ave,Customer,,
+23/06/2017 16:41,23/06/2017 16:56,893,Franklin St & Chicago Ave,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1963
+04/06/2017 14:18,04/06/2017 14:28,605,Pine Grove Ave & Irving Park Rd,Montrose Harbor,Customer,,
+19/02/2017 20:00,19/02/2017 20:01,97,Campbell Ave & Fullerton Ave,Campbell Ave & Fullerton Ave,Customer,,
+24/05/2017 6:35,24/05/2017 6:48,811,Clinton St & Washington Blvd,St. Clair St & Erie St,Subscriber,Female,1989
+09/05/2017 11:37,09/05/2017 11:39,109,Calumet Ave & 21st St,McCormick Place,Subscriber,Male,1982
+08/03/2017 6:16,08/03/2017 6:19,178,Jefferson St & Monroe St,Clinton St & Tilden St,Subscriber,Male,1982
+19/05/2017 8:29,19/05/2017 8:34,274,LaSalle St & Illinois St,Wacker Dr & Washington St,Subscriber,Male,1989
+21/06/2017 19:17,21/06/2017 19:24,368,Damen Ave & Division St,Damen Ave & Augusta Blvd,Subscriber,Female,1987
+25/04/2017 21:54,25/04/2017 22:02,471,Wells St & Elm St,Dayton St & North Ave,Subscriber,Female,1990
+22/02/2017 11:22,22/02/2017 11:29,435,Campbell Ave & Fullerton Ave,Western Ave & Winnebago Ave,Subscriber,Male,1990
+21/05/2017 20:52,21/05/2017 21:05,770,Buckingham Fountain,Clinton St & Roosevelt Rd,Subscriber,Male,1991
+01/02/2017 16:54,01/02/2017 17:19,1528,LaSalle St & Adams St,Damen Ave & Division St,Subscriber,Male,1992
+19/04/2017 16:59,19/04/2017 17:05,407,Rockwell St & Eastwood Ave,Francisco Ave & Foster Ave,Subscriber,Male,1978
+08/05/2017 14:17,08/05/2017 15:30,4367,Lake Shore Dr & Monroe St,Lake Shore Dr & Monroe St,Customer,,
+26/06/2017 13:49,26/06/2017 14:08,1134,Green St & Randolph St,Daley Center Plaza,Customer,,
+18/05/2017 16:08,18/05/2017 16:44,2204,Lake Shore Dr & Monroe St,Lake Shore Dr & Monroe St,Customer,,
+05/06/2017 12:33,05/06/2017 12:40,463,Michigan Ave & Jackson Blvd,Wabash Ave & Adams St,Customer,,
+02/06/2017 9:44,02/06/2017 9:52,497,Hampden Ct & Diversey Pkwy,Southport Ave & Wellington Ave,Subscriber,Female,1984
+17/04/2017 18:25,17/04/2017 18:36,697,Wells St & Concord Ln,Clark St & Wrightwood Ave,Subscriber,Male,1989
+07/04/2017 21:58,07/04/2017 22:03,304,Clark St & Lincoln Ave,Halsted St & Willow St,Subscriber,Male,1989
+09/01/2017 21:07,09/01/2017 21:20,782,Western Ave & Walton St,Western Ave & Winnebago Ave,Subscriber,Male,1956
+20/04/2017 17:00,20/04/2017 17:09,521,Franklin St & Jackson Blvd,Columbus Dr & Randolph St,Subscriber,Male,1982
+22/05/2017 15:43,22/05/2017 16:12,1742,Lake Shore Dr & Monroe St,Adler Planetarium,Customer,,
+28/04/2017 16:34,28/04/2017 16:38,273,Kingsbury St & Kinzie St,Milwaukee Ave & Grand Ave,Subscriber,Male,1993
+04/06/2017 10:20,04/06/2017 10:48,1684,Fort Dearborn Dr & 31st St,LaSalle St & Illinois St,Subscriber,Male,1985
+05/06/2017 16:15,05/06/2017 16:23,536,Shedd Aquarium,Adler Planetarium,Subscriber,Male,1989
+24/06/2017 18:12,24/06/2017 19:45,5603,Field Blvd & South Water St,Michigan Ave & Washington St,Customer,,
+08/02/2017 13:37,08/02/2017 13:50,763,Michigan Ave & Pearson St,Desplaines St & Kinzie St,Subscriber,Male,1986
+15/06/2017 18:15,15/06/2017 18:19,185,University Ave & 57th St,Woodlawn Ave & 55th St,Subscriber,Male,1999
+31/05/2017 18:06,31/05/2017 18:26,1160,Rush St & Cedar St,Ogden Ave & Chicago Ave,Subscriber,Male,1973
+08/05/2017 17:59,08/05/2017 18:03,235,Paulina Ave & North Ave,Damen Ave & Cortland St,Subscriber,Male,1972
+16/05/2017 8:16,16/05/2017 8:23,467,Milwaukee Ave & Grand Ave,Clinton St & Madison St,Subscriber,Female,1991
+11/06/2017 16:45,11/06/2017 16:54,566,State St & Randolph St,Morgan St & Lake St,Subscriber,Female,1984
+29/06/2017 13:48,29/06/2017 14:09,1250,Clinton St & Jackson Blvd,Sheffield Ave & Kingsbury St,Subscriber,Male,1968
+18/03/2017 13:44,18/03/2017 14:35,3104,Wabash Ave & Roosevelt Rd,Dusable Harbor,Subscriber,Male,1977
+12/06/2017 10:06,12/06/2017 10:17,710,LaSalle St & Washington St,Canal St & Harrison St,Subscriber,Female,1966
+16/05/2017 21:40,16/05/2017 21:52,742,Dusable Harbor,Buckingham Fountain,Subscriber,Female,1958
+24/06/2017 10:02,24/06/2017 10:07,286,Sheffield Ave & Waveland Ave,Broadway & Sheridan Rd,Subscriber,Female,1992
+14/05/2017 18:18,14/05/2017 18:32,863,Dusable Harbor,Field Museum,Customer,,
+14/04/2017 19:38,14/04/2017 19:46,441,Dearborn St & Monroe St,Kingsbury St & Kinzie St,Subscriber,Male,1954
+26/06/2017 8:25,26/06/2017 8:35,595,Michigan Ave & 8th St,Columbus Dr & Randolph St,Subscriber,Male,1959
+29/06/2017 5:19,29/06/2017 5:30,629,Francisco Ave & Foster Ave,Campbell Ave & Montrose Ave,Subscriber,Female,1980
+19/06/2017 8:25,19/06/2017 8:29,245,Richmond St & Diversey Ave,Kedzie Ave & Milwaukee Ave,Subscriber,Male,1989
+06/03/2017 8:07,06/03/2017 8:21,885,Ashland Ave & Division St,Michigan Ave & Lake St,Subscriber,Male,1991
+05/04/2017 19:22,05/04/2017 19:30,528,Rush St & Hubbard St,LaSalle St & Jackson Blvd,Subscriber,Male,1993
+10/06/2017 0:08,10/06/2017 0:13,292,Orleans St & Ohio St,Franklin St & Lake St,Subscriber,Male,1986
+21/04/2017 10:27,21/04/2017 10:32,293,Halsted St & Dickens Ave,Dayton St & North Ave,Subscriber,Male,1978
+27/05/2017 11:55,27/05/2017 12:09,872,Lake Shore Dr & Ohio St,LaSalle St & Illinois St,Customer,,
+22/05/2017 18:37,22/05/2017 18:48,667,Wilton Ave & Diversey Pkwy,Pine Grove Ave & Irving Park Rd,Subscriber,Male,1991
+17/03/2017 17:51,17/03/2017 18:00,525,Milwaukee Ave & Grand Ave,State St & Pearson St,Subscriber,Male,1989
+28/05/2017 0:23,28/05/2017 0:32,559,Damen Ave & Cortland St,Clifton Ave & Armitage Ave,Subscriber,Female,1984
+03/06/2017 9:56,03/06/2017 10:20,1399,Southport Ave & Wellington Ave,Greenview Ave & Fullerton Ave,Subscriber,Female,1986
+12/01/2017 7:36,12/01/2017 7:40,283,Clinton St & Washington Blvd,LaSalle St & Jackson Blvd,Subscriber,Male,1983
+17/06/2017 10:23,17/06/2017 10:35,760,Glenwood Ave & Morse Ave,Clark St & Schreiber Ave,Subscriber,Male,1971
+31/03/2017 7:47,31/03/2017 7:55,504,Canal St & Madison St,Wabash Ave & Adams St,Subscriber,Male,1953
+12/02/2017 15:45,12/02/2017 16:01,965,Halsted St & Diversey Pkwy,Damen Ave & Charleston St,Subscriber,Male,1965
+23/01/2017 17:03,23/01/2017 17:07,280,Franklin St & Lake St,Kingsbury St & Erie St,Subscriber,Male,1989
+23/05/2017 6:16,23/05/2017 6:39,1370,Broadway & Cornelia Ave,Clinton St & Jackson Blvd,Subscriber,Male,1987
+22/05/2017 15:29,22/05/2017 15:58,1717,Fort Dearborn Dr & 31st St,Shedd Aquarium,Subscriber,Male,1989
+21/03/2017 10:36,21/03/2017 10:54,1094,Michigan Ave & 18th St,Field Museum,Customer,,
+23/03/2017 16:49,23/03/2017 17:07,1045,Wolcott Ave & Polk St,Dearborn St & Monroe St,Subscriber,Male,1973
+17/04/2017 10:54,17/04/2017 11:09,884,Millennium Park,Michigan Ave & Oak St,Customer,,
+24/01/2017 19:32,24/01/2017 19:44,693,Clinton St & Jackson Blvd,Wabash Ave & 16th St,Subscriber,Male,1981
+30/04/2017 17:15,30/04/2017 17:18,217,Morgan St & Polk St,Racine Ave & Congress Pkwy,Subscriber,Female,1997
+23/06/2017 16:06,23/06/2017 16:19,736,Larrabee St & Division St,Rush St & Superior St,Subscriber,Female,1987
+20/02/2017 18:47,20/02/2017 19:07,1169,Racine Ave (May St) & Fulton St,Halsted St & Dickens Ave,Customer,,
+25/06/2017 17:12,25/06/2017 17:23,643,Cityfront Plaza Dr & Pioneer Ct,McClurg Ct & Illinois St,Customer,,
+15/05/2017 18:59,15/05/2017 19:14,906,Adler Planetarium,Streeter Dr & Grand Ave,Subscriber,Male,1986
+08/06/2017 20:21,08/06/2017 20:24,138,Kimbark Ave & 53rd St,Ellis Ave & 53rd St,Subscriber,Female,1967
+16/06/2017 9:31,16/06/2017 9:44,770,Calumet Ave & 21st St,Michigan Ave & Congress Pkwy,Subscriber,Female,1990
+31/01/2017 16:35,31/01/2017 16:55,1229,Normal Ave & Archer Ave,State St & Van Buren St,Subscriber,Male,1993
+13/05/2017 14:51,13/05/2017 15:06,934,Streeter Dr & Grand Ave,Theater on the Lake,Customer,,
+28/01/2017 11:15,28/01/2017 11:25,558,Paulina Ave & North Ave,Halsted St & Blackhawk St (*),Subscriber,Female,1985
+19/06/2017 20:41,19/06/2017 20:58,1039,Lake Shore Dr & North Blvd,Marshfield Ave & Cortland St,Subscriber,Male,1985
+03/04/2017 17:28,03/04/2017 17:35,431,State St & Pearson St,Orleans St & Ohio St,Subscriber,Female,1991
+21/06/2017 7:12,21/06/2017 7:35,1419,Wells St & Concord Ln,LaSalle St & Jackson Blvd,Subscriber,Female,1984
+25/01/2017 8:41,25/01/2017 8:45,235,Sangamon St & Washington Blvd (*),Clinton St & Madison St,Subscriber,Male,1985
+07/06/2017 17:38,07/06/2017 17:45,421,Michigan Ave & Washington St,Wacker Dr & Washington St,Subscriber,Male,1963
+23/03/2017 13:21,23/03/2017 13:32,655,Dearborn St & Adams St,Rush St & Superior St,Subscriber,Female,1971
+22/05/2017 6:45,22/05/2017 6:55,591,Campbell Ave & Montrose Ave,Damen Ave & Sunnyside Ave,Subscriber,Female,1973
+15/04/2017 15:47,15/04/2017 16:04,991,Dearborn Pkwy & Delaware Pl,Halsted St & Wrightwood Ave,Customer,,
+24/06/2017 16:48,24/06/2017 16:56,495,State St & Pearson St,McClurg Ct & Illinois St,Subscriber,Male,1984
+19/05/2017 7:15,19/05/2017 7:21,336,Clinton St & Washington Blvd,Michigan Ave & Washington St,Subscriber,Male,1965
+27/06/2017 16:10,27/06/2017 16:24,833,Marshfield Ave & Cortland St,Clark St & Armitage Ave,Customer,,
+16/06/2017 17:17,16/06/2017 17:22,302,Racine Ave & Fullerton Ave,Ashland Ave & Wrightwood Ave,Subscriber,Female,1980
+20/03/2017 8:28,20/03/2017 8:46,1082,Michigan Ave & 14th St,Stetson Ave & South Water St,Subscriber,Male,1973
+25/06/2017 19:03,26/06/2017 8:16,47551,Lincoln Ave & Diversey Pkwy,Lincoln Ave & Diversey Pkwy,Subscriber,Male,1985
+05/06/2017 7:19,05/06/2017 7:24,333,Cannon Dr & Fullerton Ave,Clark St & Wrightwood Ave,Subscriber,Male,1982
+27/04/2017 12:46,27/04/2017 12:54,471,Wells St & Huron St,Michigan Ave & Lake St,Subscriber,Male,1972
+21/06/2017 20:06,21/06/2017 20:25,1116,Wabash Ave & Wacker Pl,Morgan St & Lake St,Customer,,
+29/05/2017 9:47,29/05/2017 10:14,1631,Benson Ave & Church St,University Library (NU),Customer,,
+15/01/2017 19:34,15/01/2017 19:41,437,Clinton St & Madison St,Racine Ave (May St) & Fulton St,Subscriber,Male,1978
+22/06/2017 8:20,22/06/2017 8:43,1387,Michigan Ave & Oak St,Desplaines St & Jackson Blvd,Subscriber,Male,1985
+07/02/2017 14:36,07/02/2017 14:41,344,Kingsbury St & Kinzie St,LaSalle St & Washington St,Subscriber,Male,1966
+03/06/2017 0:18,03/06/2017 0:41,1341,Wabash Ave & Cermak Rd,Indiana Ave & 31st St,Customer,,
+15/04/2017 12:38,15/04/2017 12:56,1076,Adler Planetarium,Dusable Harbor,Subscriber,Male,1958
+26/01/2017 12:16,26/01/2017 12:31,918,Kedzie Ave & 21st St,Ogden Ave & Roosevelt Rd,Subscriber,Male,1949
+21/05/2017 19:17,21/05/2017 19:22,273,Ashland Ave & Division St,Paulina Ave & North Ave,Subscriber,Male,1989
+08/04/2017 18:39,08/04/2017 19:00,1226,Streeter Dr & Grand Ave,Dearborn Pkwy & Delaware Pl,Customer,,
+06/06/2017 5:54,06/06/2017 5:59,298,McClurg Ct & Illinois St,State St & Kinzie St,Subscriber,Female,1971
+29/03/2017 17:00,29/03/2017 17:04,250,Broadway & Wilson Ave,Sheridan Rd & Montrose Ave,Subscriber,Male,1993
+06/02/2017 13:34,06/02/2017 13:41,423,Jefferson St & Monroe St,Racine Ave & Randolph St,Subscriber,Male,1973
+22/05/2017 16:44,22/05/2017 16:48,237,Clark St & Randolph St,Clinton St & Washington Blvd,Subscriber,Male,1959
+09/06/2017 17:03,09/06/2017 17:24,1246,Streeter Dr & Grand Ave,Michigan Ave & Lake St,Customer,,
+16/05/2017 8:14,16/05/2017 8:28,837,Wabash Ave & 16th St,Daley Center Plaza,Subscriber,Male,1988
+16/05/2017 12:48,16/05/2017 12:58,583,Larrabee St & Kingsbury St,Sangamon St & Washington Blvd (*),Subscriber,Male,1990
